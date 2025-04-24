@@ -139,7 +139,7 @@ public:
             Computervs();
             logic();
 
-            Sleep(50);
+            Sleep(10);
         }
     }
 };
